@@ -20,6 +20,6 @@ I'm currently focused on learning Python for Business Analytics.
 
 ## 💼 My Projects
 
-- https://github.com/your-username/black_jack_program
-- https://github.com/your-username/guess_the_number_program
+- https://github.com/your-uduhemeka/black_jack_program
+- https://github.com/your-uduhemeka/guess_the_number_program
 
