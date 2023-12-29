@@ -18,7 +18,7 @@ I'm currently focused on learning Python for Business Analytics.
 - Twitter: https://twitter.com/your-UduhEmeka
 -  Email: uduhemeka@gmail.com
 
-## 💼 My Projects
+## 💼 My Repositories
 
 - https://github.com/uduhemeka/practice-programs
 
