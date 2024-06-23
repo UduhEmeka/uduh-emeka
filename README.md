@@ -22,7 +22,7 @@ Certainly! Here's a draft for your "About Me" section on your GitHub profile REA
 
 ## 🌱 Currently Learning
 
-I'm currently focused on learning Python, SQL, Taleau and Excel for Business Analytics.
+I'm currently focused on learning Python, SQL, Tableau and Excel for Business Analytics.
 
 ## 📫 How to Reach Me
 
