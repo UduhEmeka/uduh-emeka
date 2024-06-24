@@ -1,7 +1,3 @@
-Certainly! Here's a draft for your "About Me" section on your GitHub profile README:
-
----
-
 ## About Me
 
 👋 Hello! I'm Uduh Emeka Victor, a Business Manager with experience in blending the roles of Marketing Analyst and Operations Manager. I aspire to become a skilled Business Analyst, leveraging my expertise in analyzing business trends and optimizing operational efficiencies.
@@ -33,7 +29,8 @@ I'm currently focused on learning Python, SQL, Tableau and Excel for Business An
 
 ## 💼 My Repositories
 
-- https://github.com/uduhemeka/inventory-management-framework
+- https://github.com/UduhEmeka/inventory-management-framework
+- https://github.com/UduhEmeka/student-database-management-framework
 
 Let's connect and innovate together for business success!
 
